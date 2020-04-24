@@ -1,5 +1,5 @@
-server:
-  port: 3344
+server1:
+  port1: 3344
 
 spring:
   application:
